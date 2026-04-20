@@ -35,12 +35,6 @@ The project follows a clean modular structure to separate UI logic from data:
   <img src="assets/app_demoo.gif" alt="Solar System App Demo" width="300">
 </p>
 
-## 🚀 Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Jana-Abdelwahed/solar_system_3d.git](https://github.com/Jana-Abdelwahed/solar_system_3d.git)
-
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
