@@ -31,8 +31,6 @@ The project follows a clean modular structure to separate UI logic from data:
 
 ## 🎬 App Demo
 
-Showcase your 3D interactions and smooth PageView navigation here:
-
 <p align="center">
   <img src="assets/app_demoo.gif" alt="Solar System App Demo" width="300">
 </p>
